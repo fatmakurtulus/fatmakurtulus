@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm Fatma. 
+
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Fatma's github stats](https://github-readme-stats.vercel.app/api?username=fatmakurtulus)](https://github.com/fatmakurtulus/github-readme-stats)
+[![Fatma's github stats](https://github-readme-stats.vercel.app/api?username=fatmakurtulus)](https://github.com/fatmakurtulus/github-readme-stats&show_icons=true&theme=radical)
