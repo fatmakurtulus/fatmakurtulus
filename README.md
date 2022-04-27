@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Fatma's github stats](https://github-readme-stats.vercel.app/api?username=fatmakurtulus&show_icons=true&theme=radical)](https://github.com/fatmakurtulus/github-readme-stats&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakurtulus)](https://github.com/fatmakurtulus/github-readme-stats)
+[![Fatma's github stats](https://github-readme-stats.vercel.app/api?username=fatmakurtulus&show_icons=true&theme=radical)](https://github.com/fatmakurtulus/github-readme-stats&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakurtulus)](https://github.com/fatmakurtulus/github-readme-stats&show_icons=true&theme=radical)
