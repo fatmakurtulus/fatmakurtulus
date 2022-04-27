@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect me
-[<Linkedin" width="22" src="https://www.linkedin.com/in/fatmakurtulus/"/> ][Linkendin]
-
 
 [![Fatma's github stats](https://github-readme-stats.vercel.app/api?username=fatmakurtulus)](https://github.com/fatmakurtulus/github-readme-stats)
