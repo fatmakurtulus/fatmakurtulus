@@ -13,14 +13,10 @@
 - 👀 I’m interested in Mobile and Web Programming
 
 ## 📫 How to reach me
-
-<a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/fatmakurtulus?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
-</div>
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/fatmakurtulus"
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
