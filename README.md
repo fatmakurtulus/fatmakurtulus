@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning .Net5, Rest API, React
 - 👀 I’m interested in Mobile and Web Programming
 
-### 📫 How to reach me: 
-kurtulus.ft@gmail.com
+### 📫 How to reach me: kurtulus.ft@gmail.com
+
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
