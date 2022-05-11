@@ -4,7 +4,17 @@
 
 ![](https://komarev.com/ghpvc/?username=fatmakurtulus&color=green)
 
-Here I share the projects in my learning process while improving myself.
+ Learning and advancing in software I am enthusiastic.Here I share the projects in my learning process while improving myself.
+ 
+ ## 😄 About Me
+ 
+- 🔭 I’m currently working on C#, SQL 
+- 🌱 I’m currently learning .Net5, Rest API, React
+- 👀 I’m interested in Mobile and Web Programming
+
+## 📫 How to reach me
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
