@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi 👋
 
 ## I'm Fatma. 
 
+![](https://komarev.com/ghpvc/?username=fatmakurtulus&color=green)
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
