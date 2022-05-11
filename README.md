@@ -3,6 +3,8 @@
 ## I'm Fatma. 
 
 ![](https://komarev.com/ghpvc/?username=fatmakurtulus&color=green)
+
+Here I share the projects in my learning process while improving myself.
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
