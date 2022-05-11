@@ -14,7 +14,13 @@
 
 ## 📫 How to reach me
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/fatmakurtulus?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
 <!--
 **fatmakurtulus/fatmakurtulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
