@@ -2,7 +2,7 @@
 
 ## I'm Fatma. 
 
-![](https://komarev.com/ghpvc/?username=fatmakurtulus&color=green)
+**![](https://komarev.com/ghpvc/?username=fatmakurtulus&color=green)
 
  Learning and advancing in software I am enthusiastic.Here I share the projects in my learning process while improving myself.
  
